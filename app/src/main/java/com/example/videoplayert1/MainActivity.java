@@ -13,7 +13,7 @@ import android.widget.TabHost;
 import android.widget.VideoView;
 
 
-//DEVELOPER BRANCH STARTED
+//WEATHER BRANCH STARTED
 
 public class MainActivity extends AppCompatActivity {
 
